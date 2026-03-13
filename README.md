@@ -90,6 +90,12 @@ Both line detection and OCR models are exported to ONNX format and located in `m
 
 ---
 
+## Dataset
+
+The complete dataset used in this work consists of various artifacts including handwritten texts, manuscripts, stone, copper, and wood inscriptions in Nepal Script. A subset of this dataset consisting of stone inscriptions has been made publicly available as the [Nepal Script Stone Inscription Dataset](https://www.kaggle.com/dsv/15121632).
+
+---
+
 ## Citation [To be added]
 
 ---
