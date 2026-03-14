@@ -48,7 +48,7 @@ Clone the repository and install the required dependencies:
 
 ```bash
 git clone https://github.com/SvarnimN/nepal-script-text-recognition-from-ancient-artifacts.git
-cd [repo-name]
+cd nepal-script-text-recognition-from-ancient-artifacts
 pip install -r requirements.txt
 ```
 
