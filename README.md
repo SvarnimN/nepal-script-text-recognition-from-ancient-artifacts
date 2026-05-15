@@ -96,7 +96,23 @@ The complete dataset used in this work consists of various artifacts including h
 
 ---
 
-## Citation [To be added]
+## Citation
+If you use any part of this work in your research, please cite:
+```bibtex
+@inproceedings{nakarmi-etal-2026-nepal,
+  title = {Nepal Script Text Recognition from Ancient Artifacts: Challenges and Opportunities},
+  author = {Nakarmi, Swornim and Sthapit, Sarin and Tuladhar, Sahil Ratna and Shakya, Arya and Bal, Bal Krishna and Chulyadyo, Rajani},
+  booktitle = {Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)},
+  month = {May},
+  year = {2026},
+  pages = {3161--3170},
+  address = {Palma, Mallorca, Spain},
+  publisher = {European Language Resources Association (ELRA)},
+  editor = {Piperidis, Stelios and Bel, Núria and van den Heuvel, Henk and Ide, Nancy and Krek, Simon and Toral, Antonio},
+  doi = {10.63317/427yvm8biop7},
+  abstract = {Nepal Script, a script of significant linguistic, historical, and cultural importance, can be found in ancient artifacts in Nepal. As this script has faced a decline in use, it is considered among endangered scripts at present. For its revival and preservation, it is important to digitize ancient artifacts written in Nepal Script and create an accessible digital dataset. Among such artifacts are stone inscriptions, and manuscripts, from which we attempt to recognize texts using Artificial Intelligence techniques. This paper presents our approach of preparing a dataset through an extensive data acquisition method, and developing a system that recognizes Nepal Script texts from images. Our system combines the YOLOv8 algorithm with Convolutional Recurrent Neural Network architecture and Connectionist Temporal Classification loss. Our dataset consists of 5,219 text line images from ancient stone inscriptions, manuscripts, and modern handwritten and typed documents. Utilizing an augmented dataset of 41,752 samples, our system achieved 12.61% Character Error Rate. Despite the small training dataset, our model successfully predicted texts in not only new stone inscriptions and manuscripts but also wooden and copper plate inscriptions. We expect our contributions will encourage further research on Nepal Script and other Nepalese scripts.}
+}
+```
 
 ---
 
